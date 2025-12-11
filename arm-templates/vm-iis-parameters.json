@@ -9,7 +9,7 @@
             "value": "vm-iac-web-iis"
         },
         "location": {
-            "value": "eastus"
+            "value": "eastus2"
         },
         "adminUsername": {
             "value": "iacadmin"
